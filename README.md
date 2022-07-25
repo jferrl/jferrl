@@ -6,8 +6,8 @@
 - 📌 Location: León, Spain
 
 ### Working on
-[jferrl/go-merche](https://github.com/jferrl/go-merche)
-[jferrl/stream-to-buffer](https://github.com/jferrl/stream-to-buffer)
+- [jferrl/go-merche](https://github.com/jferrl/go-merche)
+- [jferrl/stream-to-buffer](https://github.com/jferrl/stream-to-buffer)
 
 ### Contact info
 - Twitter: https://twitter.com/jferrl/

@@ -7,6 +7,7 @@
 
 ### Working on
 - [jferrl/go-merche](https://github.com/jferrl/go-merche)
+- - [jferrl/go-kraken](https://github.com/jferrl/go-kraken)
 - [jferrl/stream-to-buffer](https://github.com/jferrl/stream-to-buffer)
 
 ### Contact info

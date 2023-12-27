@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Senior Software Engineer in Agentero
+- 🔭 I’m currently working as Software Engineer in Agentero
 - 🌱 I’m continuously learning about software engineering/architecture
 - 💬 Ask me about Node.js, Golang, TDD or Coding dojos.
 - 📌 Location: León, Spain
